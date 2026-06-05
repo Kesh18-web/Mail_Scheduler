@@ -1,4 +1,4 @@
-# ReachInbox(Outbox_Project) – Email Scheduler & Dashboard
+# ReachInbox – Email Scheduler & Dashboard
 
 This project implements a production-style email scheduling system similar to what ReachInbox uses internally.  
 The focus is on **reliable background scheduling**, **rate-limited delivery**, and **restart safety**, rather than sending real emails.
